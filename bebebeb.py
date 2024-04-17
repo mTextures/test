@@ -8,7 +8,7 @@ for row in range(21):
       else:
         print(' ', end = '')
   print() 
-print('exec')
+
 
 
 
